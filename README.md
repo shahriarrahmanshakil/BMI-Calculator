@@ -27,6 +27,7 @@ You can try the live version of the BMI calculator here: [Live Demo](your-github
 
 ## Screenshots
 ![BMI Calculator Screenshot](../BMI-Calculator/bmi.png)
+<img src="bmi.png">
 
 ## Technologies Used
 - **HTML5:** For structuring the content and layout of the app.
