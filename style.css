@@ -20,9 +20,10 @@ h1,h2,h3,h4,h5,h6{
 
 #main{
     background-image: linear-gradient(white,rgb(132, 206, 144),gray);
-    width: 80%;
+    width: 50%;
+    /* height: 100vh; */
     padding:35px 25px 25px;
-    margin: 30px auto 0;
+    margin: 30px auto 15px;
     border-radius: 15px;
     box-shadow: 0px 5px 20px rgb(110, 213, 143);
 }
@@ -62,7 +63,16 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .result{
-    
+    /* display: none; */
+    background-color: rgb(225, 238, 233);
+    border-radius: 5px;
+    padding: 10px;
+}
+.info{
+    background-color: rgb(242, 224, 200);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
 }
 p{
     padding: 5px;
