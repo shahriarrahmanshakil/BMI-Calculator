@@ -14,6 +14,14 @@ button.addEventListener('click', ()=>{
     let bmi = newWeight / sqrHeight;
     score.textContent = bmi.toFixed(2);
     result.style.display = 'block';
+
+    if( score.textContent < 18.6){
+        result.style.background = "red";
+    }else if( score.textContent < 24.9){
+        result.style.background = "rgb(73, 195, 103)";
+    }else{
+        result.style.background = "gray";
+    }
 });
 
 let form = document.getElementById('form');
