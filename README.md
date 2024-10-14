@@ -2,18 +2,6 @@
 
 A simple yet interactive BMI (Body Mass Index) calculator built with JavaScript, HTML, and CSS to determine the BMI of users based on their weight and height. This project is ideal for beginners and serves as a practical example of basic JavaScript logic.
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [How to Use](#how-to-use)
-4. [Live Demo](#live-demo)
-5. [Screenshots](#screenshots)
-6. [Technologies Used](#technologies-used)
-7. [Installation](#installation)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-
 ## Project Overview
 The BMI Calculator allows users to input their weight and height to calculate their Body Mass Index (BMI), which helps assess whether they are underweight, normal weight, overweight, or obese. BMI is a useful metric for health and fitness purposes. The app categorizes the result based on the calculated BMI, providing feedback on the user's weight status.
 
@@ -38,7 +26,7 @@ The BMI Calculator allows users to input their weight and height to calculate th
 You can try the live version of the BMI calculator here: [Live Demo](your-github-pages-link).
 
 ## Screenshots
-![BMI Calculator Screenshot](bmi.png)
+![BMI Calculator Screenshot](../BMI-Calculator/bmi.png)
 
 ## Technologies Used
 - **HTML5:** For structuring the content and layout of the app.
