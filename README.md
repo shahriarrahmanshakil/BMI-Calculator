@@ -25,7 +25,7 @@ The BMI Calculator allows users to input their weight and height to calculate th
 - **Result:** BMI = 22.86 (Normal)
 
 ## Live Demo
-You can try the live version of the BMI calculator here: [Live Demo](https://github.com/shahriarrahmanshakil/BMI-Calculator).
+You can try the live version of the BMI calculator here: [Live Demo](https://shahriarrahmanshakil.github.io/BMI-Calculator/).
 
 ## Technologies Used
 - **HTML5:** For structuring the content and layout of the app.
