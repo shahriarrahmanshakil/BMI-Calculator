@@ -37,4 +37,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+  https://github.com/shahriarrahmanshakil/BMI-Calculator.git
