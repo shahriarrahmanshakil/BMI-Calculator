@@ -10,4 +10,61 @@
 
 body{
     background-color: rgb(194, 208, 208);
+    font-weight: 400;
 }
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+    margin: 0 0 15px;
+}
+
+#main{
+    background-image: linear-gradient(white,rgb(132, 206, 144),gray);
+    width: 80%;
+    padding:35px 25px 25px;
+    margin: 30px auto 0;
+    border-radius: 15px;
+    box-shadow: 0px 5px 20px rgb(110, 213, 143);
+}
+
+#main form{
+    margin: 16px 0px;
+}
+#main label{
+    display: block;
+    margin: 10px 0px;
+}
+#main input{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    width: 100%;
+}
+#main input:focus{
+    outline: none;
+}
+#main button{
+    background-color: rgb(66, 165, 198);
+    padding: 10px;
+    margin: 20px 0px;
+    border-radius: 5px;
+    border:none;
+    width: 100%;
+    cursor: pointer;
+    font-size: 20px;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+#main button:hover{
+    background-color: rgb(18, 159, 91);
+}
+
+.result{
+    
+}
+p{
+    padding: 5px;
+}
+
